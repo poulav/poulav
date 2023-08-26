@@ -6,17 +6,17 @@ Welcome to my DevOps Engineer portfolio! I'm passionate about leveraging cutting
 
 ## About Me
 
-I am an aspiring DevOps Engineer with expertise in a wide range of technologies. My experience includes:
+I am an aspiring DevOps Engineer with expertise in a wide range of technologies. My experience includes:<br/>
 
-✅ WordPress Development: Creating and maintaining dynamic websites with custom themes and plugins.
-✅ Marketing Automation: Implementing seamless marketing workflows using tools like Zapier and automation platforms.
-✅ Analytics and Tracking: Utilizing Google Analytics and Google Tag Manager to gather and interpret valuable insights.
-✅ CRM Integration: Integrating systems with Keap CRM to manage customer relationships effectively.
-☁️ AWS Cloud Practitioner: Certified in AWS Cloud, with hands-on experience in various cloud services.
-👨🏻‍💻 Programming Languages: Proficient in Golang, Bash scripting, Python, JavaScript for diverse automation tasks.
- Containerization and Orchestration: Expertise in Docker and Kubernetes for scalable and manageable applications.
-- Continuous Integration and Deployment: Implementing CI/CD pipelines using Jenkins for efficient development workflows.
-- Data Management: Exceptional track record of managing and analyzing data using Google Sheets.
+✅ WordPress Development: Creating and maintaining dynamic websites with custom themes and plugins.<br/>
+✅ Marketing Automation: Implementing seamless marketing workflows using tools like Zapier and automation platforms.<br/>
+✅ Analytics and Tracking: Utilizing Google Analytics and Google Tag Manager to gather and interpret valuable insights.<br/>
+✅ CRM Integration: Integrating systems with Keap CRM to manage customer relationships effectively.<br/>
+☁️ AWS Cloud Practitioner: Certified in AWS Cloud, with hands-on experience in various cloud services.<br/>
+👨🏻‍💻 Programming Languages: Proficient in Golang, Bash scripting, Python, JavaScript for diverse automation tasks.<br/>
+🛢️ Containerization and Orchestration: Expertise in Docker and Kubernetes for scalable and manageable applications.<br/>
+📈 Continuous Integration and Deployment: Implementing CI/CD pipelines using Jenkins for efficient development workflows.<br/>
+🔢 Data Management: Exceptional track record of managing and analyzing data using Google Sheets.<br/>
   
 ## Projects Showcase
 
