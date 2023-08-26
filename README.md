@@ -21,7 +21,7 @@ I am an aspiring DevOps Engineer with expertise in a wide range of technologies.
 ## Projects Showcase
 
 ### WordPress Website Enhancement
-![WordPress](images/wordpress.png){:height="100px" width="100px"}
+![WordPress](images/wordpress.png){width=100}
 - Transformed a basic website into a feature-rich platform by developing custom themes and plugins.
 - Improved performance, user experience, and SEO optimization.
 
