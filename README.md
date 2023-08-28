@@ -21,12 +21,12 @@ I am an aspiring DevOps Engineer with expertise in a wide range of technologies.
 ## Projects Showcase
 
 ### WordPress Website Enhancement
-![WordPress](images/wordpress.png).
+
 - Transformed a basic website into a feature-rich platform by developing custom themes and plugins.
 - Improved performance, user experience, and SEO optimization.
 
 ### Marketing Automation Workflow
-.
+
 - Automated a complex marketing workflow using Zapier, resulting in a 40% increase in lead conversion.
 - Integrated various tools to create a seamless lead nurturing process.
 
