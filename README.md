@@ -21,22 +21,22 @@ I am an aspiring DevOps Engineer with expertise in a wide range of technologies.
 ## Projects Showcase
 
 ### WordPress Website Enhancement
-![WordPress](images/wordpress.png){:height="100px" width="100px"}.
+![WordPress](images/wordpress.png).
 - Transformed a basic website into a feature-rich platform by developing custom themes and plugins.
 - Improved performance, user experience, and SEO optimization.
 
 ### Marketing Automation Workflow
-![Zapier](images/zapier.png){:height="100px" width="100px"}.
+.
 - Automated a complex marketing workflow using Zapier, resulting in a 40% increase in lead conversion.
 - Integrated various tools to create a seamless lead nurturing process.
 
 ### Cloud-powered Scalable Application
-![AWS Cloud](images/aws-cloud.png)
+
 - Designed and deployed a cloud-native application on AWS, utilizing services like EC2, S3, and RDS.
 - Implemented auto-scaling and load balancing for optimal performance.
 
 ### Kubernetes Orchestration
-![Kubernetes](images/kubernetes.png)
+
 - Orchestrated a containerized application with Kubernetes, ensuring high availability and zero downtime.
 - Utilized Helm charts for simplifying deployment and management.
 
@@ -54,8 +54,8 @@ I am an aspiring DevOps Engineer with expertise in a wide range of technologies.
 
 I'm always excited to collaborate on new projects and challenges. Feel free to reach out to me:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
-- GitHub: [YourUsername](https://github.com/yourusername)
+- Email: [poulavbiswas@gmail.com](mailto:poulavbiswas@gmail.com)
+- LinkedIn: [Poulav Biswas](https://www.linkedin.com/in/poulavbiswas)
+- GitHub: [poulav](https://github.com/poulav)
 
 Let's innovate and create together!
