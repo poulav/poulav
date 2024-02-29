@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Technical Specialist Portfolio
+# Marketing Automation Specialist Portfolio
 
-Welcome to my Technical Specialist Portfolio! I'm passionate about leveraging cutting-edge technologies to streamline development, deployment, and operations processes. With a strong background in various tools and technologies, I'm dedicated to creating efficient and scalable solutions. 
+Welcome to my Marketing Automation Specialist Portfolio! I'm passionate about leveraging cutting-edge technologies to streamline development, deployment, and operations processes. With a strong background in various tools and technologies, I'm dedicated to creating efficient and scalable solutions. 
 
 ## About Me
 
