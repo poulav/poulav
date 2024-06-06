@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Marketing Automation Specialist Portfolio
+# DevOps Portfolio
 
-Welcome to my Marketing Automation Specialist Portfolio! I'm passionate about leveraging cutting-edge technologies to streamline development, deployment, and operations processes. With a strong background in various tools and technologies, I'm dedicated to creating efficient and scalable solutions. 
+Welcome to my DevOps Portfolio! I'm passionate about leveraging cutting-edge technologies to streamline development, deployment, and operations processes. With a strong background in various tools and technologies, I'm dedicated to creating efficient and scalable solutions. 
 
 ## About Me
 
