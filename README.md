@@ -48,7 +48,6 @@ I'm a dedicated technical specialist with over six years of experience in IT inf
 
 ### ⚙️ Kubernetes Orchestration
 - Orchestrated containerized applications with Kubernetes, ensuring high availability and zero downtime.
-- Utilized Helm charts for simplifying deployment and management.
 
 ---
 
