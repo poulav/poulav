@@ -12,15 +12,15 @@ I'm a dedicated technical specialist with over six years of experience in IT inf
 
 ## 🛠️ Technical Skills
 
-- **Cloud Platforms:** AWS (EC2, S3, RDS, IAM, Lambda), Azure
+- **Cloud Platforms:** AWS (EC2, S3, RDS, IAM, Lambda)
 - **Containerization & Orchestration:** Docker, Kubernetes
-- **DevOps Tools:** Jenkins, Git, GitHub Actions, Helm
-- **Programming Languages:** Golang, Python, Bash, JavaScript
+- **DevOps Tools:** Git, Github, CodeCommit, CodeBuild, CodeDeploy
+- **Programming Languages:** Golang, Typescript, Bash, JavaScript
 - **Web Development:** WordPress (Custom Themes & Plugins)
-- **Marketing Automation:** Zapier, Keap CRM
-- **Analytics & Tracking:** Google Analytics, Google Tag Manager
+- **Marketing Automation:** Zapier, Keap CRM, Gohighlevel, n8n, Make, AWS Lambda
+- **Analytics & Tracking:** Google Analytics, Google Tag Manager, Meta Ads
 - **CI/CD Pipelines:** Implementation and management
-- **Data Management:** Google Sheets, Excel
+- **Data Management:** Google Sheets, Microsoft Excel, Looker Studio, Cloudwatch, Athena, Dynamo DB, S3
 
 ---
 
