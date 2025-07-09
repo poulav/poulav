@@ -34,6 +34,10 @@ I'm a dedicated technical specialist with over six years of experience in IT inf
 
 ## 🚀 Projects Showcase
 
+### ☁️ Cloud-Powered Scalable Application
+- Designed and deployed cloud-native applications on AWS, utilizing services like EC2, S3, and RDS.
+- Implemented auto-scaling and load balancing for optimal performance.
+
 ### 🌐 WordPress Website Enhancement
 - Developed and maintained dynamic websites with custom themes and plugins.
 - Improved performance, user experience, and SEO optimization.
@@ -41,10 +45,6 @@ I'm a dedicated technical specialist with over six years of experience in IT inf
 ### 🔄 Marketing Automation Workflow
 - Automated complex marketing workflows using Zapier, leading to a 40% increase in lead conversion.
 - Integrated various tools to create seamless lead nurturing processes.
-
-### ☁️ Cloud-Powered Scalable Application
-- Designed and deployed cloud-native applications on AWS, utilizing services like EC2, S3, and RDS.
-- Implemented auto-scaling and load balancing for optimal performance.
 
 ### ⚙️ Kubernetes Orchestration
 - Orchestrated containerized applications with Kubernetes, ensuring high availability and zero downtime.
