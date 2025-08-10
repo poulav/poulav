@@ -6,7 +6,7 @@
 
 ## 🔧 About Me
 
-I'm a dedicated technical specialist with over six years of experience in IT infrastructure, cloud computing, and DevOps. Currently, I serve as a Consultant at Infosys Limited, where I focus on designing and implementing scalable solutions on AWS and Kubernetes platforms. My journey has evolved from hands-on development to strategic consulting, enabling businesses to harness the power of cloud technologies effectively.
+I'm a cloud engineer with over six years of experience in AWS infrastructure, cloud computing, and DevOps. Currently, I serve as a Senior Consultant at Infosys Limited, where I focus on designing and implementing scalable solutions on AWS and Kubernetes platforms. My journey has evolved from hands-on development to strategic consulting, enabling businesses to harness the power of cloud technologies effectively.
 
 ---
 
