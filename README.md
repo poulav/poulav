@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Poulav Biswas
 
-**Consultant at Infosys | AWS Certified Solutions Architect Associate | CKA | Cloud & DevOps Enthusiast**
+**Senior Consultant at Infosys | AWS Certified Solutions Architect Associate | CKA | Cloud & DevOps Enthusiast**
 
 ---
 
